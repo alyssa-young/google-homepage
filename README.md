@@ -1,1 +1,1 @@
-A google homepage. I get to display my knowledge of HTML and CSS acquired by learning with The Odin Project.
+Google homepage made in HTML and CSS
