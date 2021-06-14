@@ -1,3 +1,10 @@
+main{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
 .avatar{
     vertical-align: middle;
     width: 50px;
@@ -35,11 +42,11 @@ a:hover{
 }
 
 .centered{
-    position: fixed;
-    top: 30%;
-    left: 35%;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
 }
-
 
 .input-text{
     background: #fff;
